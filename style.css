@@ -12,6 +12,6 @@ header {
 
 footer {
     height: 40px;
-    background-color: #21c421;
+    background-color: rgba(33, 196, 33, 0.2);
     border-bottom: 0px;
 }
